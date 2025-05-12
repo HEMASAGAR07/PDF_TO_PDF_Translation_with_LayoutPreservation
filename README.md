@@ -34,6 +34,9 @@ By employing LoRA, we can significantly reduce memory and compute requirements, 
   - Max Steps: `1000`
   - Optimizer: `adamw_torch`
 - Output: Two zipped fine-tuned models (`fine_tuned_model_telugu.zip` and `fine_tuned_model_tamil.zip`), ready for inference or deployment.
+- Improved model bleu score Here are images attached
+- ![image](https://github.com/user-attachments/assets/37219021-3008-4df2-b1de-ff903d2de68e)
+
 
 ---
 
